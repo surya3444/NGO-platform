@@ -97,7 +97,12 @@ function Header() {
                 Admin Panel
               </Button>
             )}
-
+            <Button component={RouterLink} to="/FEATURESPAGE.html" color="inherit">
+              features
+            </Button>
+            <Button component={RouterLink} to="/CHAT.html" color="inherit">
+              Chat with AI
+            </Button>
             <Typography variant="body1" sx={{ mr: 2 }}>
               Hi, {user.name}
             </Typography>
