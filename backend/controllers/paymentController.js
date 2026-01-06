@@ -4,8 +4,8 @@ import Post from '../models/postModel.js';
 
 // --- THIS IS THE FIX ---
 // Use your hardcoded keys
-const RAZORPAY_KEY_ID = "rzp_test_RblIi6pzVvs0gv";
-const RAZORPAY_KEY_SECRET = "cK137nsqC3b7feotQ09Ouvjx";
+const RAZORPAY_KEY_ID = "rzp_test_RuzkZ02TUr9toa";
+const RAZORPAY_KEY_SECRET = "GTJZ9nGgLsXastcTPq7XwyQX";
 // --- END OF FIX ---
 
 // Initialize Razorpay
